@@ -8,7 +8,13 @@ This repository contains the initial stage of a student project to build a clone
 
 | Tasks | Files | Description |
 | ----- | ----- | ------ |
-| 0: Authors/README File | [AUTHORS](https://github.com/Malongmak/alu-AirBnB_clone_v2 | Project authors |
+| 0: Authors/README File | [AUTHORS] # These individuals contributed to the hbnb project in this repository 
+
+Ezra Nobrega <ezra.nobrega@outlook.com>
+Justin Majetich <justinmajetich@gmail.com>
+Joshua malong <j.malong@alustudent.com>
+Prince Ndanyuzwe <p.ndanyuzwe@alustudent.com>
+| Project authors |
 | 1: Pep8 | N/A | All code is pep8 compliant|
 | 2: Unit Testing | [/tests](https://github.com/Malongmak/alu-AirBnB_clone_v2/AirBnB_clone/tree/dev/tests) | All class-defining modules are unittested |
 | 3. Make BaseModel | [/models/base_model.py](https://github.com/Malongmak/alu-AirBnB_clone_v2/AirBnB_clone/blob/dev/models/base_model.py) | Defines a parent class to be inherited by all model classes|
