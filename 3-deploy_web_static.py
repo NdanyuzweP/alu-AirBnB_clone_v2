@@ -11,6 +11,13 @@ env.user = "ubuntu"
 env.key = "~/larissa/.ssh/id_rsa"
 
 
+<<<<<<< HEAD
+=======
+env.hosts = ['54.226.41.197', '54.88.106.199']
+
+
+@runs_once
+>>>>>>> e53ddc400784148de62dde8d5ef114793def52d4
 def do_pack():
     """Create a .tgz archive from the web_static folder."""
     time_stamp = datetime.now().strftime("%Y%m%d%H%M%S")

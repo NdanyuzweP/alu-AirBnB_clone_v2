@@ -3,9 +3,18 @@
 from fabric.api import env, put, run
 from os.path import exists
 
+<<<<<<< HEAD
 env.hosts = ["54.209.26.141", "18.215.182.32"]
 env.user = "ubuntu"
 env.key = "~/.ssh/id_rsa"
+=======
+import os
+from datetime import datetime
+from fabric.api import env, local, put, run, runs_once
+
+
+env.hosts = ['34.228.27.169', '54.88.249.173']
+>>>>>>> e53ddc400784148de62dde8d5ef114793def52d4
 
 
 def do_deploy(archive_path):
